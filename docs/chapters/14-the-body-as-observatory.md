@@ -1,0 +1,15 @@
+# Chapter 14 — The Body as Observatory
+
+An observatory does not create the stars it studies. It creates conditions in which weak signals become visible.
+
+The body can be used in a similar way. Slow practice reduces noise from momentum and effort. Repetition reveals which sensations recur. Attention distinguishes a transient event from a durable transition. The practitioner becomes both participant and instrument.
+
+This method has obvious weaknesses. Expectation changes perception. The observer is not blinded. Narrative can make unrelated events appear coherent. Yet first-person observation has a legitimate role in discovery. Pain, effort, balance, and proprioception are partly available only from inside. Clinical science routinely depends on subjective reports while seeking objective correlates.
+
+The discipline is to separate observation from interpretation. “I heard a crack” is an observation. “My cervical vertebra permanently realigned” is an anatomical inference. “My body is regenerating” is a much larger theoretical claim. Each step requires additional evidence.
+
+A useful record therefore includes timing, context, sensation, functional change, and persistence. Standardized photographs can test visible morphology. Range-of-motion measures, gait, force, EMG, dental assessment, ultrasound, or clinically indicated imaging can address specific mechanisms. Audio can document event frequency but cannot identify the tissue source alone.
+
+The body observatory also changed my beliefs. Cultural and family expectations had defined what adult bodies do, what aging looks like, and which experiences are plausible. Repeated bodily discoveries sometimes contradicted those expectations. The mental trajectory was not adoption of a new doctrine but gradual willingness to question inherited limits.
+
+This is where biological identity comes before psychological identity. The body supplies evidence that the self-description must accommodate. A rigid identity dismisses the evidence to preserve continuity. An adaptive identity allows the evidence to revise what the person believes possible.

@@ -1,49 +1,14 @@
-# Project Status
+# Status
 
-**Release:** V0.2.1 typesetting snapshot  
-**Generated:** 2026-07-23
+**Current release:** V0.3
 
-## Artifact progress
+- Coherent seven-part architecture: complete
+- Full manuscript rewrite: complete first pass
+- Markdown/LaTeX parity: complete
+- Actual figures: 5
+- Inline literature integration: partial
+- External scientific review: pending
+- Author review: pending
+- Publication readiness: approximately 30%
 
-- Complete merged manuscript: **yes**
-- Split chapter files: **yes**
-- New conceptual chapters: **8**
-- Existing V0.1 chapters retained and renumbered: **18**
-- Epilogue: **yes**
-- Verified reading path: **30 sources**
-- Evidence map updated: **yes**
-- AI development log preserved: **yes**
-- Publication-ready inline citation coverage: **no**
-- External expert review: **no**
-
-## Approximate progress toward a publication-quality V1.0
-
-| Area | Progress |
-|---|---:|
-| Conceptual architecture | 75% |
-| Complete narrative draft | 35% |
-| Personal chronology | 25% |
-| Scientific grounding | 35% |
-| Inline citations | 10% |
-| Figures | 15% |
-| Practitioner validation | 15% |
-| External review | 0% |
-| Copy editing | 10% |
-| Overall publication readiness | 20% |
-
-## Next release priorities
-
-1. Remove overlap between the new chapters and retained V0.1 chapters.
-2. Add precise inline references by claim.
-3. Expand the personal chronology with author-verified events.
-4. Add a formal comparison with SENS, Blueprint, Attia, Friston, Noble, and Levin.
-5. Develop the age-distribution and hierarchical-landscape models mathematically.
-6. Add measured observations, images, or data where available.
-
-## V0.2.1 typesetting status
-
-- Markdown/LaTeX chapter parity: **complete**
-- Reusable BibTeX database: **complete**
-- Professional style package: **complete**
-- Custom cover source: **complete**
-- LuaLaTeX/Biber build validation: **complete - 119-page PDF generated and preflighted**
+The immediate next step is author review for flow, depth, personal accuracy, and missing intellectual lineages.

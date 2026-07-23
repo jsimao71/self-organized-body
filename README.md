@@ -1,46 +1,23 @@
 # The Self-Organizing Body
 
-Version 0.2.1 is an expanded working manuscript of Jorge Simão's systems framework for health, plasticity, and endogenous longevity.
+Version 0.3 is a full structural rewrite organized as a coherent systems-biology narrative.
 
-## Start here
+## Read
 
-- `docs/BOOK.md` — complete merged manuscript
-- `docs/chapters/` — individual chapter files for phone browsing
-- `docs/references/verified-reading.md` — verified literature and reading paths
-- `docs/evidence-map.md` — epistemic status of the major propositions
-- `docs/figure-specifications.md` — planned diagrams
-- `docs/ai.log.md` — source dialogue with Claude and ChatGPT
-- `STATUS.md` — real artifact progress
-- `CHANGELOG.md` — what changed
-- `ROADMAP.md` — next milestones
-- `BOOK_IDEAS.md` — unresolved ideas
-
-
-## LaTeX edition
-
-- `docs/latex/book.tex` - professionally typeset LaTeX edition
-- `docs/latex/chapters/` - one `.tex` file per Markdown chapter
-- `docs/latex/references.bib` - reusable bibliography
-- `docs/latex/README.md` - build and synchronization workflow
-
-Build with:
-
-```bash
-cd docs/latex
-make pdf
-```
+- `docs/BOOK.md` — merged Markdown manuscript
+- `docs/chapters/` — one Markdown file per chapter
+- `docs/latex/book.tex` — LaTeX edition
+- `docs/latex/book.pdf` — compiled book
+- `docs/latex/references.bib` — reusable BibTeX database
+- `docs/figures/` — actual SVG figures used by both editions
+- `docs/archive/v0.2.1/` — previous manuscript preserved
 
 ## Build
 
 ```bash
-pandoc docs/BOOK.md --toc -o self-organizing-body-v0.2.docx
-pandoc docs/BOOK.md --toc -o self-organizing-body-v0.2.epub
+cd docs/latex
+python3 sync_from_markdown.py
+latexmk -lualatex book.tex
 ```
 
-## Epistemic and medical boundary
-
-The manuscript presents personal observations, established mechanisms, interpretations, hypotheses, and speculation. It is not medical advice and does not establish that contemplative or lifestyle practices regenerate specific damaged organs.
-
-## AI disclosure
-
-Development included dialogue and editorial assistance from Claude by Anthropic and ChatGPT by OpenAI. The author remains responsible for the manuscript.
+The manuscript is a conceptual and research framework, not medical advice.

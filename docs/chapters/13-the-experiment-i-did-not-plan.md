@@ -1,0 +1,17 @@
+# Chapter 13 — The Experiment I Did Not Plan
+
+The conceptual framework came after the observation.
+
+In the first years of Tai Chi, Qigong, and meditation, I was not attempting to reverse aging. I was learning practices that asked for a different relation to effort. Rather than making every movement happen through deliberate contraction, I was repeatedly asked to relax, attend, and allow coordination to emerge.
+
+At first, relaxation meant doing less. Later it became more precise. I began to notice that voluntary effort was only one layer of control. Beneath it were reflexes, habitual contractions, balance corrections, breathing patterns, and protective responses that continued without conscious command.
+
+When the central nervous system became quieter and I stopped imposing a desired posture, small movements appeared. They were not random in the ordinary sense. They often seemed to propagate through mechanically related regions. A change in the jaw was followed by the neck; a change in breathing altered the rib cage and spine; pressure redistributed through the pelvis and feet.
+
+Some events produced loud cracks or releases. The sounds are easy to dramatize and scientifically weak on their own. Joint cavitation, tendon motion, and ordinary mechanical events can be audible. What kept my attention was not the sound but the repeated association with changes in ease, alignment, and function.
+
+Across years, the process seemed to remove layers of compensation. I did not experience the body inventing an exotic new form. I experienced it converging toward a more symmetric, earlier, and less defended organization. “Recovering original shape” became the simplest description, though it should not be read as restoration of an exact childhood blueprint.
+
+The duration changed the meaning of the observation. A short-term improvement could be relaxation, expectation, or ordinary motor learning. A process that continues for decades suggests either a long sequence of compensations being revised or a much larger adaptive domain than conventional expectations allow.
+
+This remains an N-of-1 account. Memory is fallible. Aging, dental changes, body composition, work, and unrelated health changes can be misattributed. The observation earns the right to generate hypotheses, not to establish general efficacy.

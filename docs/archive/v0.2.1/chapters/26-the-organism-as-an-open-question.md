@@ -1,0 +1,29 @@
+# Chapter 26 — The Organism as an Open Question
+
+The body is neither a passive machine nor an unlimited miracle.
+
+It is a historically constrained, materially vulnerable, self-organizing process. It contains remarkable repair, learning, and adaptation, together with hard limits, trade-offs, and tissue-specific failures.
+
+The framework developed here begins with the river: restore dynamics as well as parts. It adds downward causation: beliefs, projects, attention, and behaviour become biological through ordinary cascades. It proposes the healthy attractor: development constrains the forms toward which coordinated function can converge. It treats relaxation as the release of degrees of freedom and progressive challenge as a way to expand the system’s repertoire. It interprets aging as a reinforcing loss of resilience and asks whether improvement can also become self-reinforcing.
+
+The strongest claim—endogenous maintenance escape velocity—remains unproven. It may be wrong, partially right, or applicable only to selected tissues and timescales.
+
+But the practical framework does not require certainty.
+
+Live as though adaptive capacity is precious.
+
+Challenge it without crushing it.
+
+Release control without abandoning structure.
+
+Alternate building with cleanup and recovery.
+
+Measure durable function rather than dramatic sensation.
+
+Use external repair without surrendering the organism’s role in healing.
+
+Most importantly, remain open to evidence.
+
+The self-organizing body is not a conclusion. It is a research programme—and a way of living inside the question.
+
+---

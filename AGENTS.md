@@ -1,47 +1,15 @@
 # AGENTS.md
 
-## Mission
+## Writing standard
+Write as an experienced systems biologist teaching an intelligent general reader. Build concepts before using them. Each chapter must have one central question, a narrative progression, and an earned conclusion.
 
-Develop *The Self-Organizing Body* into a rigorous, readable, and falsifiable conceptual framework.
+Avoid short disconnected paragraphs, repeated slogans, excessive bullets, generic self-defense boxes, and unexplained equations. Separate systems theory, biology, longevity, personal narrative, practice, and research.
 
-## Authorial position
+## Source formats
+Every chapter exists in Markdown under `docs/chapters/` and is generated into LaTeX under `docs/latex/chapters/`. Bibliography lives in `docs/latex/references.bib`. Figures must be real SVG/PDF assets, not merely specifications.
 
-The observations came first. The framework is not proprietary doctrine; it is a synthesis of existing ideas constructed to explain persistent observations of structural self-organization.
-
-## Voice
-
-Personal, visionary, systems-oriented, technically literate, and open to criticism. Avoid generic AI prose, mystical certainty, and unnecessary repetition.
-
-## Epistemic labels
-
-Always distinguish:
-- observation;
-- established evidence;
-- interpretation;
-- hypothesis;
-- speculation.
+## Epistemic discipline
+Connect claims to literature in the prose. Explain what a cited author actually contributed and where the current framework extends or disagrees. Distinguish observation from anatomical inference and hypothesis without repeatedly interrupting the narrative.
 
 ## Safety
-
-Never present neck/jaw cracking as a target. Do not prescribe extreme fasting, forceful manipulation, untreated medical experimentation, or delaying professional care.
-
-## Core additions in V0.2
-
-- biological identity before psychological identity;
-- distributed organization and neural representations;
-- body-led self-organization;
-- hierarchical attractor landscapes;
-- activation energy and local minima;
-- cell-lineage reversibility;
-- approximate functional equivalence;
-- systemic progressive loading;
-- biological-age distributions;
-- skeptical dialogue.
-
-## Literature
-
-Use primary papers and major reviews. A citation supports only the claim it actually tested. Do not imply that authors cited in the reading guide endorse the full framework.
-
-## AI attribution
-
-Credit both Claude/Anthropic and ChatGPT/OpenAI as dialogue and editorial collaborators, not scientific authorities or responsible authors.
+Do not recommend forceful neck or jaw manipulation, extreme fasting, or replacing clinical care with practice.

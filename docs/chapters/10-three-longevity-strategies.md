@@ -1,0 +1,20 @@
+# Chapter 10 — Three Longevity Strategies
+
+Contemporary longevity culture contains several strategies that are often treated as competitors but answer different questions.
+
+The first is prevention and risk management. It includes exercise, sleep, vaccination, blood-pressure control, lipid management, cancer screening, social connection, and treatment of disease. Peter Attia's popular framing emphasizes extending healthspan by managing the major chronic causes of death and preserving physical capacity. Whatever one thinks of particular recommendations, this approach begins from epidemiology and clinical risk.
+
+The second is measurement-driven optimization. Bryan Johnson turned himself into a highly visible experiment through Blueprint, publishing protocols, tracking extensive biomarkers, and iterating diet, sleep, exercise, devices, supplements, and medical interventions. His project is part quantified self, part longevity clinic, part public performance, and increasingly a commercial platform. Its strongest contribution is methodological: measure, intervene, compare, and publish. Its weakness is that one unusually resourced person cannot by himself establish general causality, and optimization of selected biomarkers may not equal whole-organism rejuvenation. His own public account of excessive leanness illustrates how improving one set of measures can worsen another dimension of perceived or functional health.
+
+The third is damage repair. Aubrey de Grey argued that aging should be approached as an engineering problem: identify categories of accumulating damage and periodically repair them before pathology becomes irreversible. His Strategies for Engineered Negligible Senescence, or SENS, helped popularize a damage-oriented rejuvenation program. In a 2004 essay he introduced **actuarial escape velocity**, later widely called longevity escape velocity: if therapies extend healthy remaining life enough for improved therapies to arrive, the person may repeatedly stay ahead of age-related decline [@degrey2004escape].
+
+These strategies can be placed in a simple relation:
+
+- prevention reduces the rate at which damage is produced;
+- measurement improves feedback and decision quality;
+- rejuvenation engineering removes or repairs damage;
+- the framework in this book asks whether endogenous organization can increase its own future maintenance capacity.
+
+The final strategy does not replace the first three. A self-organizing body can still need antibiotics, surgery, a lipid-lowering drug, or future cell therapy. Conversely, external repair may work better in an organism with stronger circulation, movement, sleep, immune regulation, and adaptive reserve.
+
+The most credible future is hybrid. Prevent avoidable damage. Measure what matters. Repair barriers the organism cannot cross. At the same time, investigate whether whole-system practice can shift the dynamics that generate, distribute, and respond to damage.
