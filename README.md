@@ -1,6 +1,6 @@
 # The Self-Organizing Body
 
-Version 0.2 is an expanded working manuscript of Jorge Simão's systems framework for health, plasticity, and endogenous longevity.
+Version 0.2.1 is an expanded working manuscript of Jorge Simão's systems framework for health, plasticity, and endogenous longevity.
 
 ## Start here
 
@@ -14,6 +14,21 @@ Version 0.2 is an expanded working manuscript of Jorge Simão's systems framewor
 - `CHANGELOG.md` — what changed
 - `ROADMAP.md` — next milestones
 - `BOOK_IDEAS.md` — unresolved ideas
+
+
+## LaTeX edition
+
+- `docs/latex/book.tex` - professionally typeset LaTeX edition
+- `docs/latex/chapters/` - one `.tex` file per Markdown chapter
+- `docs/latex/references.bib` - reusable bibliography
+- `docs/latex/README.md` - build and synchronization workflow
+
+Build with:
+
+```bash
+cd docs/latex
+make pdf
+```
 
 ## Build
 

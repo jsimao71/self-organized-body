@@ -1,6 +1,6 @@
 # Project Status
 
-**Release:** V0.2 working snapshot  
+**Release:** V0.2.1 typesetting snapshot  
 **Generated:** 2026-07-23
 
 ## Artifact progress
@@ -39,3 +39,11 @@
 4. Add a formal comparison with SENS, Blueprint, Attia, Friston, Noble, and Levin.
 5. Develop the age-distribution and hierarchical-landscape models mathematically.
 6. Add measured observations, images, or data where available.
+
+## V0.2.1 typesetting status
+
+- Markdown/LaTeX chapter parity: **complete**
+- Reusable BibTeX database: **complete**
+- Professional style package: **complete**
+- Custom cover source: **complete**
+- LuaLaTeX/Biber build validation: **complete - 119-page PDF generated and preflighted**

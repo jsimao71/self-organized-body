@@ -1,5 +1,20 @@
 # Changelog
 
+## V0.2.1 - 2026-07-23
+
+### Added
+
+- Parallel LaTeX source tree under `docs/latex/`.
+- One `.tex` file for every Markdown chapter.
+- Reusable BibTeX database with the book's verified reading sources.
+- Professional KOMA-Script trade-book layout with custom typography and running heads.
+- Custom TikZ cover requiring no external image assets.
+- LuaLaTeX/Biber/latexmk build workflow and Markdown-to-LaTeX synchronization script.
+
+### Unchanged
+
+- Book prose and chapter content remain identical to V0.2 pending author review.
+
 ## V0.2 — 2026-07-23
 
 ### Added

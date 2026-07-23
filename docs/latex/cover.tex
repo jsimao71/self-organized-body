@@ -1,0 +1,29 @@
+\begin{titlepage}
+\thispagestyle{empty}
+\begin{tikzpicture}[remember picture,overlay]
+  \fill[Ink] (current page.south west) rectangle (current page.north east);
+  \fill[River!85!Ink] ($(current page.south west)+(0,0)$) -- ($(current page.south east)+(0,0)$) -- ($(current page.north east)+(0,-3.0cm)$) -- ($(current page.north west)+(0,-5.1cm)$) -- cycle;
+  \fill[Moss!75!Ink,opacity=.72] ($(current page.south west)+(0,0)$) -- ($(current page.south east)+(0,0)$) -- ($(current page.north east)+(0,-6.2cm)$) -- ($(current page.north west)+(0,-8.0cm)$) -- cycle;
+  \draw[Sand!70,opacity=.32,line width=.65pt]
+    ($(current page.west)+(0,2.4cm)$) .. controls ($(current page.center)+(-1.4cm,2.0cm)$) and ($(current page.center)+(1.2cm,1.0cm)$) .. ($(current page.east)+(0,.9cm)$);
+  \draw[Sand!70,opacity=.22,line width=.45pt]
+    ($(current page.west)+(0,1.6cm)$) .. controls ($(current page.center)+(-1.1cm,.4cm)$) and ($(current page.center)+(1.3cm,.1cm)$) .. ($(current page.east)+(0,-1.2cm)$);
+  \foreach \x/\y/\r in {1.1/2.1/1.4,2.0/1.5/1.0,2.9/2.3/1.2,3.8/1.2/.9,4.5/2.0/1.1}{
+    \fill[Sand!75,opacity=.45] ($(current page.south west)+(\x cm,\y cm)$) circle (\r pt);
+  }
+  \node[anchor=north west,text width=4.65in,align=left] at ($(current page.north west)+(0.68in,-0.88in)$) {
+    {\sffamily\bfseries\fontsize{28}{31}\selectfont\color{WarmWhite}\booktitle\par}
+    \vspace{0.28in}
+    {\sffamily\fontsize{16}{19}\selectfont\color{Sand}\booksubtitle\par}
+    \vspace{0.10in}
+    {\sffamily\fontsize{10.5}{14}\selectfont\color{WarmWhite!82}\bookdescriptor\par}
+  };
+  \node[anchor=south west,align=left] at ($(current page.south west)+(0.68in,0.82in)$) {
+    {\sffamily\bfseries\fontsize{13}{16}\selectfont\color{WarmWhite}\bookauthor}\par
+    \vspace{0.08in}
+    {\sffamily\fontsize{8.7}{11}\selectfont\color{Sand}\bookversion}
+  };
+\end{tikzpicture}
+\null
+\end{titlepage}
+\cleardoublepage

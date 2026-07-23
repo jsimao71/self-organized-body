@@ -1324,11 +1324,11 @@ Let health reserve be \(H\), damage burden \(D\), adaptive loading \(L\), and re
 A conceptual model is:
 
 \[
-rac{dH}{dt} = aL + bR + cH - dD - eL^2
+\frac{dH}{dt} = aL + bR + cH - dD - eL^2
 \]
 
 \[
-rac{dD}{dt} = g(H,t) - q(H,R)
+\frac{dD}{dt} = g(H,t) - q(H,R)
 \]
 
 The positive \(cH\) term represents health enabling future health. The negative \(eL^2\) term represents excessive challenge becoming damaging. Repair \(q\) may improve with health and recovery but saturate.
@@ -1356,7 +1356,7 @@ The framework proposed here is parallel but different.
 It asks whether endogenous maintenance can be shifted until effective repair and clearance persistently exceed new damage:
 
 \[
-	ext{effective repair and clearance} > 	ext{new damage and loss of reserve}.
+\text{effective repair and clearance} > \text{new damage and loss of reserve}.
 \]
 
 I call this **endogenous maintenance escape velocity**.

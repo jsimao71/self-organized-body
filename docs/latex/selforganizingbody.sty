@@ -1,0 +1,98 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{selforganizingbody}[2026/07/23 Professional book style]
+
+\RequirePackage{fontspec}
+\RequirePackage{microtype}
+\RequirePackage{amsmath,amssymb}
+\RequirePackage{newunicodechar}
+\newunicodechar{→}{\ensuremath{\rightarrow}}
+\RequirePackage{xcolor}
+\RequirePackage{graphicx}
+\RequirePackage{tikz}
+\usetikzlibrary{calc,positioning,decorations.pathmorphing,backgrounds}
+\RequirePackage{geometry}
+\RequirePackage{setspace}
+\RequirePackage{ragged2e}
+\RequirePackage{enumitem}
+\RequirePackage{booktabs}
+\RequirePackage{tabularx}
+\RequirePackage{longtable}
+\RequirePackage{array}
+\RequirePackage{tcolorbox}
+\tcbuselibrary{breakable,skins}
+\RequirePackage{lettrine}
+\RequirePackage{scrlayer-scrpage}
+\RequirePackage{hyperref}
+\RequirePackage{bookmark}
+\RequirePackage{csquotes}
+\RequirePackage[backend=biber,style=authoryear-comp,maxcitenames=2,maxbibnames=99,doi=true,url=false,isbn=false,eprint=false]{biblatex}
+
+\definecolor{Ink}{HTML}{17212B}
+\definecolor{River}{HTML}{1F667A}
+\definecolor{Moss}{HTML}{53735B}
+\definecolor{Sand}{HTML}{D8C7A3}
+\definecolor{Copper}{HTML}{B66A3C}
+\definecolor{Mist}{HTML}{EDF2F1}
+\definecolor{WarmWhite}{HTML}{FAF8F3}
+\definecolor{Slate}{HTML}{66717D}
+
+\defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\setmainfont{Noto Serif}
+\setsansfont{Inter}
+\setmonofont{DejaVu Sans Mono}
+
+\geometry{paperwidth=6in,paperheight=9in,inner=0.82in,outer=0.66in,top=0.78in,bottom=0.82in,headsep=0.22in,footskip=0.35in}
+\setstretch{1.08}
+\setlength{\parindent}{1.15em}
+\setlength{\parskip}{0pt}
+\setlength{\emergencystretch}{2em}
+\clubpenalty=10000
+\widowpenalty=10000
+\displaywidowpenalty=10000
+
+\KOMAoptions{headings=big,chapterprefix=false,open=right}
+\setkomafont{chapter}{\normalfont\sffamily\bfseries\color{Ink}}
+\setkomafont{chapterentry}{\normalfont\sffamily\bfseries}
+\setkomafont{section}{\normalfont\sffamily\bfseries\color{River}}
+\setkomafont{subsection}{\normalfont\sffamily\bfseries\color{Moss}}
+\setkomafont{disposition}{\normalfont\sffamily\bfseries}
+\renewcommand*{\chapterformat}{%
+  \makebox[0pt][r]{\color{Copper}\fontsize{44}{44}\selectfont\thechapter\hspace{0.35em}}}
+\RedeclareSectionCommand[beforeskip=0pt,afterskip=2.4\baselineskip,tocnumwidth=2.2em]{chapter}
+\RedeclareSectionCommand[beforeskip=2.1\baselineskip,afterskip=.75\baselineskip]{section}
+\RedeclareSectionCommand[beforeskip=1.5\baselineskip,afterskip=.5\baselineskip]{subsection}
+
+\clearpairofpagestyles
+\ihead{\small\sffamily\color{Slate}\leftmark}
+\ohead{\small\sffamily\color{Slate}\rightmark}
+\cfoot{\small\sffamily\color{Slate}\pagemark}
+\setheadsepline{0.25pt}[\color{Sand}]
+\automark[section]{chapter}
+\pagestyle{scrheadings}
+\renewcommand*{\chapterpagestyle}{plain.scrheadings}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=River,
+  citecolor=Moss,
+  urlcolor=Copper,
+  pdftitle={The Self-Organizing Body},
+  pdfauthor={Jorge Simão},
+  pdfsubject={Systems biology, plasticity, and endogenous longevity}
+}
+
+\setlist[itemize]{leftmargin=1.35em,itemsep=.18em,topsep=.45em}
+\setlist[enumerate]{leftmargin=1.55em,itemsep=.18em,topsep=.45em}
+
+\newtcolorbox{scopebox}{
+  enhanced,breakable,colback=Mist,colframe=River!35!white,boxrule=.45pt,
+  sharp corners,leftrule=2.5pt,left=9pt,right=9pt,top=7pt,bottom=7pt,
+  before skip=10pt,after skip=12pt,fontupper=\small
+}
+\newtcolorbox{principlebox}[1][]{
+  enhanced,breakable,colback=WarmWhite,colframe=Copper!55!white,boxrule=.5pt,
+  arc=1.5mm,left=10pt,right=10pt,top=8pt,bottom=8pt,
+  before skip=12pt,after skip=12pt,title={#1},fonttitle=\sffamily\bfseries\color{Ink}
+}
+
+\AtBeginDocument{\color{Ink}}
