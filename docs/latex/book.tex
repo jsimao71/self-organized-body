@@ -1,32 +1,58 @@
-\documentclass[10.5pt,twoside,openright]{scrbook}
+\documentclass[11pt,twoside,openright]{scrbook}
 \usepackage{selforganizingbody}
+
+\newcommand{\booktitle}{The Self-Organizing Body}
+\newcommand{\booksubtitle}{How to Grow Young}
+\newcommand{\bookdescriptor}{A Systems Framework for Health, Plasticity, and Endogenous Longevity}
+\newcommand{\bookauthor}{Jorge Simão}
+\newcommand{\bookversion}{Version 0.3.1}
+
 \addbibresource{references.bib}
+
 \begin{document}
 \input{cover}
+
 \frontmatter
 \input{frontmatter}
+\pdfbookmark[0]{Contents}{contents}
 \tableofcontents
+\cleardoublepage
+
 \mainmatter
+\part{Thinking in Systems}
 \input{chapters/01-the-river-and-the-machine.tex}
 \input{chapters/02-how-complex-systems-become-stable.tex}
 \input{chapters/03-causation-across-levels.tex}
 \input{chapters/04-organization-information-and-identity.tex}
+
+\part{How Living Form Is Built and Rebuilt}
 \input{chapters/05-how-a-body-builds-itself.tex}
 \input{chapters/06-form-as-a-multiscale-memory.tex}
 \input{chapters/07-the-body-without-a-central-engineer.tex}
 \input{chapters/08-plasticity-repair-and-regeneration.tex}
+
+\part{Aging, Longevity, and Practical Immortality}
 \input{chapters/09-aging-as-loss-of-adaptive-capacity.tex}
 \input{chapters/10-three-longevity-strategies.tex}
 \input{chapters/11-endogenous-escape-velocity.tex}
 \input{chapters/12-the-distribution-of-ages.tex}
+
+\part{A Twenty-Year Personal Experiment}
 \input{chapters/13-the-experiment-i-did-not-plan.tex}
 \input{chapters/14-the-body-as-observatory.tex}
+
+\part{The Self-Organizing Practice}
 \input{chapters/15-what-practice-means.tex}
 \input{chapters/16-systemic-progressive-loading.tex}
 \input{chapters/17-growth-cleanup-and-recovery.tex}
+
+\part{An Invitation to Science and Medicine}
 \input{chapters/18-a-research-program.tex}
 \input{chapters/19-objections-and-boundaries.tex}
+
+\part{The Grand Vision}
 \input{chapters/20-the-grand-vision.tex}
+
 \backmatter
 \printbibliography[heading=bibintoc,title={References}]
 \end{document}

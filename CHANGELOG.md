@@ -1,5 +1,17 @@
 # Changelog
 
+## V0.3.1 - LaTeX rebuild
+
+- Fixed undefined cover metadata commands.
+- Rebuilt the cover with visible title, subtitle, descriptor, author, and version.
+- Added the seven book parts to the LaTeX master file and table of contents.
+- Removed duplicated `Chapter N` text from generated chapter titles.
+- Converted SVG figures to PDF for reliable inclusion without shell-escape dependencies.
+- Added a clean, Biber-aware `latexmk` verification target.
+- Verified that the PDF, TOC, and bibliography are generated from a clean build.
+
+# Changelog
+
 ## V0.3
 
 ### Rewritten
