@@ -1,35 +1,31 @@
 # The Self-Organizing Body
 
-A complete conceptual first draft of Jorge Simão's systems framework for health, plasticity, and endogenous longevity.
+Version 0.2 is an expanded working manuscript of Jorge Simão's systems framework for health, plasticity, and endogenous longevity.
 
-## Contents
+## Start here
 
-- `BOOK.md` — merged manuscript
-- `book/` — one Markdown file per chapter
-- `figures/` — Mermaid diagrams and figure specifications
-- `references/` — bibliography and evidence map
-- `notes/` — revision notes and concept glossary
-- `AGENTS.md` — instructions for AI and human editors
-
-## Status
-
-Version 0.1 is a compact, complete first draft. It is intentionally shorter than a finished trade book. It establishes the full argument, practitioner framework, scientific boundaries, objections, and research agenda. Future versions should deepen the personal narrative, source every empirical claim, commission expert review, and add measured longitudinal evidence.
+- `docs/BOOK.md` — complete merged manuscript
+- `docs/chapters/` — individual chapter files for phone browsing
+- `docs/references/verified-reading.md` — verified literature and reading paths
+- `docs/evidence-map.md` — epistemic status of the major propositions
+- `docs/figure-specifications.md` — planned diagrams
+- `docs/ai.log.md` — source dialogue with Claude and ChatGPT
+- `STATUS.md` — real artifact progress
+- `CHANGELOG.md` — what changed
+- `ROADMAP.md` — next milestones
+- `BOOK_IDEAS.md` — unresolved ideas
 
 ## Build
 
-With Pandoc installed:
-
 ```bash
-pandoc BOOK.md --toc -o self-organizing-body.docx
-pandoc BOOK.md --toc -o self-organizing-body.epub
+pandoc docs/BOOK.md --toc -o self-organizing-body-v0.2.docx
+pandoc docs/BOOK.md --toc -o self-organizing-body-v0.2.epub
 ```
 
-PDF output additionally requires an appropriate PDF engine.
+## Epistemic and medical boundary
 
-## Authorship and AI disclosure
+The manuscript presents personal observations, established mechanisms, interpretations, hypotheses, and speculation. It is not medical advice and does not establish that contemplative or lifestyle practices regenerate specific damaged organs.
 
-The framework and personal observations are attributed to Jorge Simão. Manuscript development included conceptual dialogue and editorial assistance from ChatGPT by OpenAI and Claude by Anthropic. AI output may contain errors; publication requires human scientific and medical review.
+## AI disclosure
 
-## License
-
-All rights reserved for this draft. Replace `LICENSE` before public release if a different license is desired.
+Development included dialogue and editorial assistance from Claude by Anthropic and ChatGPT by OpenAI. The author remains responsible for the manuscript.

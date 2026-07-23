@@ -1,47 +1,16 @@
-# Figure Specifications
+# Figure Specifications — Version 0.2
 
-## 1. The River and the Machine
-Two panels: replace/repair components versus restore watershed and flow.
-
-## 2. Bidirectional biological hierarchy
-```mermaid
-flowchart TB
-  E[Environment and culture] --> B[Beliefs, purpose, and projects]
-  B --> A[Attention and prediction]
-  A --> N[Neural and autonomic patterns]
-  N --> M[Movement, breathing, and muscle tone]
-  M --> T[Tissue mechanics and physiology]
-  T --> C[Cells and molecular regulation]
-  C --> T --> M --> N --> A --> B
-```
-
-## 3. Healthy attractor landscape
-A broad healthy basin surrounded by narrower maladaptive basins; arrows show perturbation, release, and convergence.
-
-## 4. Relaxation releases degrees of freedom
-Rigid motor state → expanded search → coordinated lower-effort solution.
-
-## 5. Recursive adaptation
-```mermaid
-flowchart LR
-  C[Challenge] --> I[Instability]
-  I --> R[Recovery]
-  R --> K[Consolidation]
-  K --> E[Expanded capacity]
-  E --> C
-```
-
-## 6. Negative and positive runway
-```mermaid
-flowchart TB
-  D[Damage] --> LR[Lower repair]
-  LR --> D
-  H[Better organization] --> BR[Better repair and resilience]
-  BR --> H
-```
-
-## 7. Growth-cleanup-recovery cycle
-Load → nourish/build → release → cleanup → sleep/integrate → test → progress.
-
-## 8. Evidence ladder
-Observation → functional measure → structural measure → physiological mechanism → replication.
+1. **River versus machine** — component repair versus restoration of upstream dynamics.
+2. **Organization versus substrate** — same components, different relational organization.
+3. **Distributed memory** — representation across a network rather than one neuron.
+4. **Biological identity hierarchy** — physical → biological → psychological → social → cultural.
+5. **Command versus permission** — cortical micromanagement compared with body-led search.
+6. **Nested attractor landscapes** — cells, tissues, body, identity, and culture.
+7. **Activation barrier** — relaxation lowers constraints; challenge supplies energy.
+8. **Recursive adaptation cycle** — challenge → instability → recovery → consolidation → expanded capacity.
+9. **Lineage state space** — differentiation tree with backward and lateral transitions.
+10. **Exact versus approximate restoration** — historical identity compared with functional equivalence.
+11. **Age distribution** — multiple tissue and functional ages rather than one scalar.
+12. **Negative and positive runways** — degeneration and improving improvability.
+13. **Evidence ladder** — observation → function → structure → mechanism → replication.
+14. **Hybrid longevity strategy** — endogenous dynamics plus targeted external repair.
