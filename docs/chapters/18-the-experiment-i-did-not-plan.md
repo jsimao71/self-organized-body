@@ -1,0 +1,17 @@
+# Chapter 18 — The Experiment I Did Not Plan
+
+The practice evolved without a formal protocol. That is a weakness scientifically, but it is also why the observations were surprising.
+
+In ordinary movement, the brain predicts a goal and recruits the body to achieve it. In the practice that emerged, the goal became almost negative: do not impose an unnecessary movement; do not freeze; remain attentive; allow the body to show what happens next.
+
+The central nervous system would quiet, but awareness remained. Peripheral tension, gravity, breathing, and small asymmetries became perceptible. A movement might begin in the jaw, continue through the neck, alter the ribs, and eventually affect the pelvis or feet. The process could stop for days or return in another configuration.
+
+I came to distinguish deliberate manipulation from spontaneous reorganization. Deliberate manipulation seeks a sound, range, or correction. The spontaneous process was lower-force, slower, and less predictable. I did not know the final configuration in advance.
+
+Over decades, the direction appeared to be recovery of earlier organization rather than invention of a novel body. Twists and compensations seemed to reduce. This is the origin of phrases such as “recovering original shape” or “growing young.” They are summaries of direction, not claims that chronological age is reversed uniformly.
+
+The experience also altered belief. Each bodily discovery contradicted cultural assumptions about adult fixity. The body became an experimental instrument that forced psychological identity to update. Instead of belief commanding the body, observation from the body revised belief.
+
+The limitations are substantial. Memory is selective. Photographs vary. Body composition, dental changes, ordinary exercise, and aging itself can change appearance. Sounds do not identify anatomy. The observations require prospective measurement.
+
+Still, an unmeasured observation can be scientifically generative if it is persistent and produces discriminating predictions. The next chapter explains how to turn the body from a source of stories into an observatory.

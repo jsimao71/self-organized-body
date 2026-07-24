@@ -1,23 +1,20 @@
-# LaTeX Build Verification
+# Build Verification — V0.4
 
-Verified on 2026-07-23 from a clean build tree.
-
-Command:
+Verified on 2026-07-23 with:
 
 ```bash
-make clean
-make verify
+python sync_from_markdown.py
+latexmk -lualatex -interaction=nonstopmode -halt-on-error book.tex
 ```
 
-Results:
+Result:
 
-- Engine: LuaLaTeX via latexmk
-- Bibliography: Biber / biblatex
-- PDF: `book.pdf`
-- Pages: 74
-- Trim size: 6 x 9 inches
-- Cover text: verified by rendered inspection
-- Table of contents: verified by rendered inspection
-- `book.toc`: generated and non-empty
-- `book.bbl`: generated and non-empty
-- Undefined controls/citations/references: none
+- PDF generated successfully
+- 103 pages
+- 6 × 9 inch trim size
+- Cover present
+- Table of contents present
+- Seven parts and 25 chapters
+- Bibliography generated with Biber
+- No unresolved citations after final build
+- Figures embedded as PDF for reliable LaTeX compilation

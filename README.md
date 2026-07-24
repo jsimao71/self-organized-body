@@ -1,6 +1,6 @@
 # The Self-Organizing Body
 
-Version 0.3.1 is a full structural rewrite organized as a coherent systems-biology narrative.
+Version 0.4 is a full structural rewrite organized as a coherent systems-biology narrative.
 
 ## Read
 
@@ -26,3 +26,8 @@ The manuscript is a conceptual and research framework, not medical advice.
 ## LaTeX build verification
 
 The release PDF was rebuilt from a clean tree with LuaLaTeX, Biber, and latexmk. The build must produce non-empty `book.toc` and `book.bbl` files before release.
+
+
+## V0.4
+
+This release expands the manuscript to a full pedagogical working draft and keeps Markdown and LaTeX chapter sources synchronized.

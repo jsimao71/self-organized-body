@@ -1,0 +1,17 @@
+# Chapter 14 — Blueprint, Quantified Longevity, and Its Limits
+
+Bryan Johnson became a public symbol of quantified longevity after building and selling technology companies and then directing substantial resources toward a programme he calls Blueprint.
+
+Blueprint treats lifestyle as a controlled system. Sleep, exercise, food, supplements, diagnostics, and medical interventions are standardized and measured. Johnson publishes selected biomarkers and compares some of them with youthful reference ranges. The project’s cultural importance lies not in any single supplement but in making the body a continuously monitored engineering object.
+
+I found the project surprising because several public conclusions resembled ideas I had reached privately years earlier: that aging is not one number, that organs and functions can differ in apparent age, that disciplined routine can produce youthful performance in selected systems, and that measurement should replace vague self-assessment.
+
+Yet Blueprint and the framework in this book diverge. Blueprint tends toward centralized control: build a protocol, eliminate decision noise, and make behaviour obey data. My observations emphasize the opposite movement inside practice: reduce unnecessary central control so that peripheral and bodily dynamics can reorganize.
+
+These approaches may be complementary. Measurement is useful precisely because subjective bodily interpretation can be wrong. Body-led practice is useful because a protocol cannot explicitly calculate every relevant relation.
+
+The central limitation of quantified longevity is dimensionality. No finite dashboard captures the entire organism. Epigenetic clocks, blood tests, imaging, VO2 max, strength, sleep, and organ measures describe different projections. Optimizing one can harm another. Reference to an 18-year-old value may be meaningful for blood pressure but absurd for psychological judgment.
+
+Siim Land illustrates another quantified path: an evidence-oriented educator and athlete emphasizing fitness, body composition, diet, sleep, biomarkers, and accessible routines. Public Rejuvenation Olympics rankings have made pace-of-aging scores culturally visible, but such rankings depend on specific tests and should not be confused with validated predictions of exceptional lifespan.
+
+These programmes are best interpreted as experiments in measurement-intensive healthspan. They demonstrate that selected functions can be maintained at unusually high levels. They do not yet establish that the whole-body age distribution has been flattened or that self-repair has crossed an escape threshold.

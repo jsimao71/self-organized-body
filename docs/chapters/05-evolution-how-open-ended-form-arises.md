@@ -1,0 +1,37 @@
+# Chapter 5 — Evolution: How Open-Ended Form Arises
+
+The self-organizing body is not infinitely plastic. Its possibilities are shaped by evolution.
+
+Natural selection begins with a simple logic. Populations contain heritable variation. Organisms differ in survival and reproduction. Variants that contribute to reproductive success tend, on average, to become more common. Across many generations, this process produces adaptations without a foresighted designer [@darwin1859origin].
+
+Several qualifications matter. Evolution does not optimize every trait independently. It works with inherited structures, trade-offs, historical accidents, and changing environments. A feature can persist because it is good enough, because changing it would disrupt other functions, or because selection weakens after reproduction. Sexual selection, kin selection, developmental constraints, and niche construction further complicate the picture.
+
+Bodies are therefore not perfect machines. They are evolving compromises. The human spine reflects a quadrupedal ancestry. Cancer suppression limits regenerative proliferation. Immune systems balance defence against autoimmunity. Aging can emerge partly because maintenance sufficient for development and reproduction was favoured more strongly than indefinite repair [@kirkwood2005odd].
+
+Yet evolution also produced remarkable robustness. Embryos develop reliably despite molecular noise. Wounds close. Bones adapt to load. Immune systems learn. Behaviour modifies environments. Evolution selected not one fixed adult form but developmental and regulatory systems capable of producing viable forms across variable conditions.
+
+This is crucial for the healthy-attractor idea. Healthy humans vary genetically and environmentally, yet they occupy a constrained region of morphology. We all recognize a human body because developmental mechanisms repeatedly converge on related solutions. A self-organizing adult body will not invent wings or a new organ plan through meditation. Its accessible forms are constrained by evolutionary and developmental history.
+
+The proposal that recovery tends toward an “original” organization should therefore be understood statistically. When chronic compensation is removed, the body is more likely to move toward configurations compatible with the same developmental architecture that produced it than toward arbitrary novelty. The basin is broad, not a single blueprint.
+
+Evolution also suggests why latent regenerative mechanisms may be inhibited. Once a structure is functional, unrestricted plasticity can be dangerous. Growth consumes energy, destabilizes identity, and increases cancer risk. A developmental programme may be silenced not because the underlying chemistry is impossible, but because stability became more valuable than continued exploration.
+
+This possibility does not prove that practice can reopen those programmes. It gives a coherent evolutionary reason why adult plasticity might exist in constrained, conditional, or inhibited forms.
+
+## Selection acts on developmental systems
+
+Natural selection does not inspect isolated adult traits in a vacuum. It acts on organisms produced by development. A mutation can alter timing, growth rate, behaviour, or the relation among tissues. Evolution therefore shapes the rules that generate bodies, not merely the final body.
+
+This matters because developmental systems are often robust: different initial perturbations converge toward viable form. Robustness allows organisms to survive noise, but it can also store hidden variation that becomes visible under unusual conditions.
+
+## Why aging evolves
+
+Several major theories help frame aging. Mutation accumulation proposes that harmful late-acting mutations are weakly selected against. Antagonistic pleiotropy proposes that variants beneficial early can be harmful later. Disposable soma theory argues that organisms allocate limited resources among reproduction, maintenance, and other functions [@kirkwood2005odd]. None implies that aging is one programme with one switch.
+
+The self-organizing framework adds a complementary systems interpretation: as repair, exploration, and coordination decline, more structure becomes fixed background. Evolution may have produced enough plasticity for ordinary reproductive lifespans without preserving the open landscape indefinitely.
+
+## Cultural evolution changes the selective environment within a lifetime
+
+Humans modify environments through tools, institutions, medicine, and language. Cultural practices can expose capacities that were previously rare. Literacy reorganizes brains; musical training changes sensorimotor networks; long contemplative practice may similarly reveal regimes not typical of modern sedentary life.
+
+The fact that a capacity is culturally uncommon does not make it biologically unnatural. It may mean the developmental environment required to express it is uncommon.

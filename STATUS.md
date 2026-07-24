@@ -1,26 +1,17 @@
-# Project Status
-
-**Release:** V0.3.1 - verified LaTeX rebuild
-
-- Markdown manuscript: complete for V0.3
-- Parallel LaTeX chapter tree: complete
-- Custom cover: verified
-- Table of contents: verified
-- Bibliography: resolved through Biber
-- Clean compile: successful
-- PDF: 74 pages, 6 x 9 inches
-
 # Status
 
-**Current release:** V0.3
+**Version:** 0.4 expanded manuscript
 
-- Coherent seven-part architecture: complete
-- Full manuscript rewrite: complete first pass
-- Markdown/LaTeX parity: complete
-- Actual figures: 5
-- Inline literature integration: partial
-- External scientific review: pending
-- Author review: pending
-- Publication readiness: approximately 30%
+- Markdown manuscript: complete working draft
+- Manuscript length: 12,834 words
+- Chapter Markdown files: 25
+- Parallel LaTeX chapters: generated
+- Reusable BibTeX: retained and expanded
+- Analytical figures: 7 included in Markdown and LaTeX
+- PDF build: verified, 103 pages, 6 × 9 inch
+- External expert review: pending
+- Author factual review of personal narrative: required
 
-The immediate next step is author review for flow, depth, personal accuracy, and missing intellectual lineages.
+## Main V0.4 objective
+
+V0.4 expands the pedagogical and narrative depth before the next detailed author review. It is not yet a publication candidate.
